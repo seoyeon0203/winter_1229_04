@@ -1,4 +1,4 @@
-package bmi.controller;
+	package bmi.controller;
 
 import bmi.view.BMIView;
 
@@ -10,4 +10,3 @@ public class BMIController  {
 	}
 
 }
- 
